@@ -19,3 +19,15 @@
 <img src="./Resources/AccountAnalyzer/AccountAnalyzerDemos/EmailChecking/noissue.png" width="500" height="100" border="10"/>
 
 
+##### Analyzing Password : 
+###### Too weak password
+<img src="./Resources/AccountAnalyzer/AccountAnalyzerDemos/PasswordChecking/tooweak.png" width="500" height="100" border="10"/>
+
+###### Atleast one capital letter
+<img src="./Resources/AccountAnalyzer/AccountAnalyzerDemos/PasswordChecking/putonecapA.png" width="500" height="100" border="10"/>
+
+###### Atleast one digit
+<img src="./Resources/AccountAnalyzer/AccountAnalyzerDemos/PasswordChecking/putonedigit.png" width="500" height="100" border="10"/>
+
+###### Correct password
+<img src="./Resources/AccountAnalyzer/AccountAnalyzerDemos/PasswordChecking/noissue.png" width="500" height="100" border="10"/>
