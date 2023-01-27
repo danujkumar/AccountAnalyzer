@@ -5,6 +5,17 @@
 
 #### Here are some samples:
 
-##### Analyzing Email
-
+##### Analyzing Email : 
+###### Too small
 <img src="./Resources/AccountAnalyzer/AccountAnalyzerDemos/EmailChecking/toosmall.png" width="500" height="100" border="10"/>
+
+###### @ missing
+<img src="./Resources/AccountAnalyzer/AccountAnalyzerDemos/EmailChecking/atmissing.png" width="500" height="100" border="10"/>
+
+###### Domain undefined
+<img src="./Resources/AccountAnalyzer/AccountAnalyzerDemos/EmailChecking/domainmissing.png" width="500" height="100" border="10"/>
+
+###### Correct email address
+<img src="./Resources/AccountAnalyzer/AccountAnalyzerDemos/EmailChecking/noissue.png" width="500" height="100" border="10"/>
+
+
