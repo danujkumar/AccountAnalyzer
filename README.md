@@ -7,4 +7,4 @@
 
 ##### Analyzing Email
 
-<img src="./Resources/AccountAnalyzer/AccountAnalyzerDemos/EmailChecking/toosmall.png" width="100" height="100" border="10"/>
+<img src="./Resources/AccountAnalyzer/AccountAnalyzerDemos/EmailChecking/toosmall.png" width="1000" height="1000" border="10"/>
